@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9b5fb0c93dac28c44ba5923e3f5f6b00
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - newSpritePrefab: {instanceID: 0}
+  - posUp: {fileID: 5717169557062018197, guid: 2ed8702a319761449a06ac0e9b95afe9, type: 3}
+  - posDown: {fileID: 640870294911260950, guid: a835bc8c8b664144a8db14224b1fc5e2, type: 3}
+  - posMilk: {fileID: 8146606747366242146, guid: 3fb82d54f5a834249aefb2d4c0af513f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

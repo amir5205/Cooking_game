@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Strawberry
+  - Banana
+  - Milk
+  - Cap
+  - Smuzi
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - DropZone
+  - Water
+  - UI
+  - Glass
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1743500017
+    locked: 0
+  - name: Item_1
+    uniqueID: 3440539715
+    locked: 0
+  - name: Item_2
+    uniqueID: 97581753
+    locked: 0
+  - name: Item_3
+    uniqueID: 461252815
+    locked: 0
+  - name: Item_4
+    uniqueID: 578479675
+    locked: 0
+  - name: Item_5
+    uniqueID: 3074633545
+    locked: 0
+  - name: Move
+    uniqueID: 960702319
+    locked: 0
